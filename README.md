@@ -28,7 +28,7 @@
 
 ### Stats
 
-[![Github States](https://github-readme-stats.vercle.app/api username=jevin](https://github-readme-stats.vercel.app/api?username=jevinmorad)
+[![Github States](https://github-readme-stats.vercel.app/api?username=jevinmorad)
 
 ### Connect with me :-
 
