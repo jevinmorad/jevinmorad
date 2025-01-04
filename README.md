@@ -1,6 +1,6 @@
 #   Hi there 👋! My name is Jevin
 
-#### 💻 Second-semester B.Tech CSE student building programming and tech skills.
+#### 👋 Hi there! I’m currently learning full-stack development, focusing on the MERN stack (MongoDB, Express,, Node.js) for building web applications and Flutter for creating sleek, cross-platform mobile apps. I’m also deeper into concepts like state management API development, and responsive to enhance both frontend and backend skills. Additionally I’m exploring other tools and technologies to expertise.
 
 
 ### Language and Tools
